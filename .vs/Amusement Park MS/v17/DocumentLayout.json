@@ -1,0 +1,768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Amusement Park MS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|d:\\c#\\amusement park ms\\suppliercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:suppliercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\suppliercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:suppliercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\employeea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:employeea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\food and beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:food and beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\order food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:order food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\order food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:order food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\visitormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:visitormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ticketcancle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ticketcancle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ticketbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ticketbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ridemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ridemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ticketbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ticketbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\visitormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:visitormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ticketcancle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ticketcancle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ridemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ridemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\maintenance2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:maintenance2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\employeea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:employeea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\customer feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:customer feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\food and beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:food and beverages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\maintenance2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:maintenance2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\customer feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:customer feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ticketbooking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ticketbooking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ticketbooking.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ticketbooking.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ridemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ridemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\login form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:login form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Maintenance.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maintenance.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Booking.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Booking.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Supplier.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Supplier.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Packages.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Food Order.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Food Order.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Food and Beverages.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Food and Beverages.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Ticket Cancle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ticket Cancle.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\ridemanagement.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:ridemanagement.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\login form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:login form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|D:\\c#\\Amusement Park MS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}|Amusement Park MS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\Amusement Park MS\\Package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RideManagement.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\RideManagement.cs",
+              "RelativeDocumentMoniker": "RideManagement.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\RideManagement.cs",
+              "RelativeToolTip": "RideManagement.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:48:17.331Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeA.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\EmployeeA.cs",
+              "RelativeDocumentMoniker": "EmployeeA.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\EmployeeA.cs [Design]",
+              "RelativeToolTip": "EmployeeA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:35:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Employee.cs [Design]",
+              "RelativeToolTip": "Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:12:52.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suppliercs.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Suppliercs.cs",
+              "RelativeDocumentMoniker": "Suppliercs.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Suppliercs.cs [Design]",
+              "RelativeToolTip": "Suppliercs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:35:56.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Suppliercs.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Suppliercs.cs",
+              "RelativeDocumentMoniker": "Suppliercs.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Suppliercs.cs",
+              "RelativeToolTip": "Suppliercs.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:51:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food and Beverages.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Food and Beverages.cs",
+              "RelativeDocumentMoniker": "Food and Beverages.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Food and Beverages.cs [Design]",
+              "RelativeToolTip": "Food and Beverages.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:26:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order Food.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Order Food.cs",
+              "RelativeDocumentMoniker": "Order Food.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Order Food.cs",
+              "RelativeToolTip": "Order Food.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAWwGUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:54:09.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order Food.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Order Food.cs",
+              "RelativeDocumentMoniker": "Order Food.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Order Food.cs [Design]",
+              "RelativeToolTip": "Order Food.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:27:08.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisitorManagement.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\VisitorManagement.cs",
+              "RelativeDocumentMoniker": "VisitorManagement.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\VisitorManagement.cs [Design]",
+              "RelativeToolTip": "VisitorManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:24:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketCancle.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\TicketCancle.cs",
+              "RelativeDocumentMoniker": "TicketCancle.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\TicketCancle.cs [Design]",
+              "RelativeToolTip": "TicketCancle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:25:43.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketBooking.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\TicketBooking.cs",
+              "RelativeDocumentMoniker": "TicketBooking.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\TicketBooking.cs [Design]",
+              "RelativeToolTip": "TicketBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:25:17.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RideManagement.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\RideManagement.cs",
+              "RelativeDocumentMoniker": "RideManagement.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\RideManagement.cs [Design]",
+              "RelativeToolTip": "RideManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:24:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vxwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:33:19.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VisitorManagement.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\VisitorManagement.cs",
+              "RelativeDocumentMoniker": "VisitorManagement.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\VisitorManagement.cs",
+              "RelativeToolTip": "VisitorManagement.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:58:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketCancle.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\TicketCancle.cs",
+              "RelativeDocumentMoniker": "TicketCancle.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\TicketCancle.cs",
+              "RelativeToolTip": "TicketCancle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:53:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Maintenance2.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Maintenance2.cs",
+              "RelativeDocumentMoniker": "Maintenance2.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Maintenance2.cs",
+              "RelativeToolTip": "Maintenance2.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:14:06.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeA.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\EmployeeA.cs",
+              "RelativeDocumentMoniker": "EmployeeA.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\EmployeeA.cs",
+              "RelativeToolTip": "EmployeeA.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:52:43.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketBooking.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\TicketBooking.cs",
+              "RelativeDocumentMoniker": "TicketBooking.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\TicketBooking.cs",
+              "RelativeToolTip": "TicketBooking.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:29:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer Feedback.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Customer Feedback.cs",
+              "RelativeDocumentMoniker": "Customer Feedback.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Customer Feedback.cs",
+              "RelativeToolTip": "Customer Feedback.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:01:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Food and Beverages.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Food and Beverages.cs",
+              "RelativeDocumentMoniker": "Food and Beverages.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Food and Beverages.cs",
+              "RelativeToolTip": "Food and Beverages.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:54:33.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Maintenance2.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Maintenance2.cs",
+              "RelativeDocumentMoniker": "Maintenance2.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Maintenance2.cs [Design]",
+              "RelativeToolTip": "Maintenance2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:28:10.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer Feedback.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Customer Feedback.cs",
+              "RelativeDocumentMoniker": "Customer Feedback.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Customer Feedback.cs [Design]",
+              "RelativeToolTip": "Customer Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:28:40.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Admin.cs [Design]",
+              "RelativeToolTip": "Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:38:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login Form.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Login Form.cs",
+              "RelativeDocumentMoniker": "Login Form.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Login Form.cs [Design]",
+              "RelativeToolTip": "Login Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:29:11.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Employee.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Employee.Designer.cs",
+              "RelativeDocumentMoniker": "Employee.Designer.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Employee.Designer.cs",
+              "RelativeToolTip": "Employee.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:34:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "Admin.Designer.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Admin.Designer.cs",
+              "RelativeToolTip": "Admin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:33:15.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TicketBooking.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\TicketBooking.Designer.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Designer.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\TicketBooking.Designer.cs",
+              "RelativeToolTip": "TicketBooking.Designer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAswCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:35:48.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TicketBooking.resx",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\TicketBooking.resx",
+              "RelativeDocumentMoniker": "TicketBooking.resx",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\TicketBooking.resx",
+              "RelativeToolTip": "TicketBooking.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-09T17:17:25.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RideManagement.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\RideManagement.Designer.cs",
+              "RelativeDocumentMoniker": "RideManagement.Designer.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\RideManagement.Designer.cs",
+              "RelativeToolTip": "RideManagement.Designer.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAAAswFsBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:06:54.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:42:45.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login Form.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Login Form.cs",
+              "RelativeDocumentMoniker": "Login Form.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Login Form.cs",
+              "RelativeToolTip": "Login Form.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvzoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:49:59.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login Form.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Login Form.Designer.cs",
+              "RelativeDocumentMoniker": "Login Form.Designer.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Login Form.Designer.cs",
+              "RelativeToolTip": "Login Form.Designer.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAiwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:35:27.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:27:29.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Booking.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Booking.sql",
+              "RelativeDocumentMoniker": "Booking.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Booking.sql",
+              "RelativeToolTip": "Booking.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:02:34.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Ticket Cancle.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Ticket Cancle.sql",
+              "RelativeDocumentMoniker": "Ticket Cancle.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Ticket Cancle.sql",
+              "RelativeToolTip": "Ticket Cancle.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:09:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Food and Beverages.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Food and Beverages.sql",
+              "RelativeDocumentMoniker": "Food and Beverages.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Food and Beverages.sql",
+              "RelativeToolTip": "Food and Beverages.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:11:47.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Food Order.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Food Order.sql",
+              "RelativeDocumentMoniker": "Food Order.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Food Order.sql",
+              "RelativeToolTip": "Food Order.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:17:49.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Packages.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Packages.sql",
+              "RelativeDocumentMoniker": "Packages.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Packages.sql",
+              "RelativeToolTip": "Packages.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:21:16.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Supplier.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Supplier.sql",
+              "RelativeDocumentMoniker": "Supplier.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Supplier.sql",
+              "RelativeToolTip": "Supplier.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:27:00.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Maintenance.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Maintenance.sql",
+              "RelativeDocumentMoniker": "Maintenance.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Maintenance.sql",
+              "RelativeToolTip": "Maintenance.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:31:03.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Employee.sql",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Employee.sql",
+              "RelativeDocumentMoniker": "Employee.sql",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Employee.sql",
+              "RelativeToolTip": "Employee.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-11T06:36:52.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAawGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:56:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Package.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Package.cs",
+              "RelativeDocumentMoniker": "Package.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Package.cs [Design]",
+              "RelativeToolTip": "Package.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:13:15.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:34:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Package.cs",
+              "RelativeDocumentMoniker": "Package.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Package.cs",
+              "RelativeToolTip": "Package.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:49:00.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RideManagement.resx",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\RideManagement.resx",
+              "RelativeDocumentMoniker": "RideManagement.resx",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\RideManagement.resx",
+              "RelativeToolTip": "RideManagement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-28T11:56:29.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Login Form.resx",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Login Form.resx",
+              "RelativeDocumentMoniker": "Login Form.resx",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Login Form.resx",
+              "RelativeToolTip": "Login Form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-28T06:38:02.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Amusement Park MS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#\\Amusement Park MS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:25:30.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

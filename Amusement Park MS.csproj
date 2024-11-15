@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4DAE242C-CA42-425F-A9A7-7C9CB4C1B4F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Amusement_Park_MS</RootNamespace>
+    <AssemblyName>Amusement Park MS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillingForm.Designer.cs">
+      <DependentUpon>BillingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionString.cs" />
+    <Compile Include="Customer Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Feedback.Designer.cs">
+      <DependentUpon>Customer Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeA.Designer.cs">
+      <DependentUpon>EmployeeA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Food and Beverages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Food and Beverages.Designer.cs">
+      <DependentUpon>Food and Beverages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Form.Designer.cs">
+      <DependentUpon>Login Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance2.Designer.cs">
+      <DependentUpon>Maintenance2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masterDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>masterDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Order Food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order Food.Designer.cs">
+      <DependentUpon>Order Food.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RideManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RideManagement.Designer.cs">
+      <DependentUpon>RideManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliercs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliercs.Designer.cs">
+      <DependentUpon>Suppliercs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketBooking.Designer.cs">
+      <DependentUpon>TicketBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketCancle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketCancle.Designer.cs">
+      <DependentUpon>TicketCancle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisitorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisitorManagement.Designer.cs">
+      <DependentUpon>VisitorManagement.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillingForm.resx">
+      <DependentUpon>BillingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Feedback.resx">
+      <DependentUpon>Customer Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeA.resx">
+      <DependentUpon>EmployeeA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food and Beverages.resx">
+      <DependentUpon>Food and Beverages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login Form.resx">
+      <DependentUpon>Login Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance2.resx">
+      <DependentUpon>Maintenance2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order Food.resx">
+      <DependentUpon>Order Food.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RideManagement.resx">
+      <DependentUpon>RideManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliercs.resx">
+      <DependentUpon>Suppliercs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketBooking.resx">
+      <DependentUpon>TicketBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketCancle.resx">
+      <DependentUpon>TicketCancle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisitorManagement.resx">
+      <DependentUpon>VisitorManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="masterDataSet.xsc">
+      <DependentUpon>masterDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="masterDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>masterDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="masterDataSet.xss">
+      <DependentUpon>masterDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Admin.datasource" />
+    <None Include="Properties\DataSources\AmusementMsDataSet.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.CustomerFeedbackTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.EmployeesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.FinancialTransactionsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.FoodItemsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.FoodOrdersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.LostAndFoundTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.MaintenanceTasksTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.PackagesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.RideCancellationsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.RidesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.RideTicketsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.SuppliersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.ThemeParksTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.usersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.masterDataSetTableAdapters.visitorsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\Amusement_Park_MS.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\Customer_Feedback.datasource" />
+    <None Include="Properties\DataSources\Dashboard.datasource" />
+    <None Include="Properties\DataSources\EmployeeA.datasource" />
+    <None Include="Properties\DataSources\Food_and_Beverages.datasource" />
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\Login_Form.datasource" />
+    <None Include="Properties\DataSources\Maintenance2.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.CustomerFeedbackDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.CustomerFeedbackRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.CustomerFeedbackRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.CustomerFeedbackRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.EmployeesDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.EmployeesRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.EmployeesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.EmployeesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FinancialTransactionsDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FinancialTransactionsRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FinancialTransactionsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FinancialTransactionsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodItemsDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodItemsRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodItemsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodItemsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodOrdersDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodOrdersRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodOrdersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.FoodOrdersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.LostAndFoundDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.LostAndFoundRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.LostAndFoundRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.LostAndFoundRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.MaintenanceTasksDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.MaintenanceTasksRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.MaintenanceTasksRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.MaintenanceTasksRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.PackagesDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.PackagesRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.PackagesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.PackagesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideCancellationsDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideCancellationsRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideCancellationsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideCancellationsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RidesDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RidesRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RidesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RidesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideTicketsDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideTicketsRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideTicketsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.RideTicketsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.SuppliersDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.SuppliersRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.SuppliersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.SuppliersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.ThemeParksDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.ThemeParksRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.ThemeParksRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.ThemeParksRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.usersDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.usersRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.usersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.usersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.visitorsDataTable.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.visitorsRow.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.visitorsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\masterDataSet.visitorsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\Order_Food.datasource" />
+    <None Include="Properties\DataSources\Package.datasource" />
+    <None Include="Properties\DataSources\panelEmployee.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\RideManagement.datasource" />
+    <None Include="Properties\DataSources\Suppliercs.datasource" />
+    <None Include="Properties\DataSources\TicketBooking.datasource" />
+    <None Include="Properties\DataSources\TicketCancle.datasource" />
+    <None Include="Properties\DataSources\VisitorManagement.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

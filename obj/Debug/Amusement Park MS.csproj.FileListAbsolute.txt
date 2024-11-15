@@ -1,0 +1,73 @@
+D:\c#\Amusement Park MS\bin\Debug\Amusement Park MS.exe.config
+D:\c#\Amusement Park MS\bin\Debug\Amusement Park MS.exe
+D:\c#\Amusement Park MS\bin\Debug\Amusement Park MS.pdb
+D:\c#\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.AssemblyReference.cache
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Form1.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Properties.Resources.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.GenerateResource.cache
+D:\c#\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.CoreCompileInputs.cache
+D:\c#\Amusement Park MS\obj\Debug\Amusement Park MS.exe
+D:\c#\Amusement Park MS\obj\Debug\Amusement Park MS.pdb
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Login_Form.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.panelEmployee.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Maintenance2.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Food_and_Beverages.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Order_Food.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.RideManagement.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.TicketBooking.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.TicketCancle.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.VisitorManagement.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Admin.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.EmployeeA.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Customer_Feedback.resources
+D:\c#\Amusement Park MS\obj\Debug\Amusement_Park_MS.Suppliercs.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\bin\Debug\Amusement Park MS.exe.config
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\bin\Debug\Amusement Park MS.exe
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\bin\Debug\Amusement Park MS.pdb
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.AssemblyReference.cache
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Admin.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Customer_Feedback.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.panelEmployee.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.EmployeeA.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Food_and_Beverages.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Form1.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Login_Form.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Maintenance2.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Order_Food.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Properties.Resources.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.RideManagement.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Suppliercs.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.TicketBooking.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.TicketCancle.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.VisitorManagement.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.GenerateResource.cache
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.CoreCompileInputs.cache
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement Park MS.exe
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement Park MS.pdb
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.BillingForm.resources
+C:\Users\Jitendra\OneDrive\Desktop\Amusement Park MS ref\Amusement Park MS\obj\Debug\Amusement_Park_MS.Report.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\bin\Debug\Amusement Park MS.exe.config
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\bin\Debug\Amusement Park MS.exe
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\bin\Debug\Amusement Park MS.pdb
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.AssemblyReference.cache
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Admin.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.BillingForm.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Customer_Feedback.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.panelEmployee.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.EmployeeA.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Food_and_Beverages.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Form1.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Login_Form.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Maintenance2.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Order_Food.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Properties.Resources.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Report.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.RideManagement.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.Suppliercs.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.TicketBooking.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.TicketCancle.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement_Park_MS.VisitorManagement.resources
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.GenerateResource.cache
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement Park MS.csproj.CoreCompileInputs.cache
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement Park MS.exe
+C:\Users\Jitendra\OneDrive\Desktop\AmusementPark-Danshree\Amusement Park MS ref - Copy(mid of update)\Amusement Park MS\obj\Debug\Amusement Park MS.pdb
